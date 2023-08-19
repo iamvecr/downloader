@@ -2,3 +2,4 @@ node_modules
 ./Book/*
 *.jpg
 yarn.lock
+.DS_Store
